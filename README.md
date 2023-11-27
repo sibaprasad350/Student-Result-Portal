@@ -1,4 +1,4 @@
-# Steudent Result Portal using django web framework
+# Student Result Portal using Django web framework
 
 Current features
 ----------------
