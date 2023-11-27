@@ -1,4 +1,4 @@
-# Learning management system using django web framework
+# Steudent Result Portal using django web framework
 
 Current features
 ----------------
