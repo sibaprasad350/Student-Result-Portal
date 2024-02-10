@@ -34,3 +34,6 @@ The student result portal is an online platform enabling students to access acad
 
 11. **Accessibility**:
     - Accessible from anywhere, anytime via a web browser, the portal allows for real-time updates, enhancing convenience and flexibility for users.
+
+12. **Screenshots**:
+    
